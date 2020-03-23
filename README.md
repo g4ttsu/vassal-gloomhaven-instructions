@@ -35,6 +35,7 @@ Once you are in a game, here is how to set it up (you only have to do this once)
 - Drag all modifier cards back on the modifier draw pile (they should stack neatly, facedown)
 ### Items
 - Click `Hero -> Item Deck`
+- Send all Items to the Available Item Deck which are currently available for your Prosperity Level
 - Find the items you are looking for, right click `P1 Item`
 - Click `P1 Board`
 - All items will be stacked on top of the first slot. Drag them to other slots as appropriate
@@ -64,7 +65,7 @@ You will have to do this every time you start a scenario
 - Click `P1 Board` and set your appropriate HP
 - Click `Dungeon -> Dungeon Board` and move your character token to your starting position
 ## Play a turn
-- Each player chooses two cards to play from their hand, and drags them onto the Main Board
+- Each player chooses two cards to play from their hand, and drags them onto the Main Board. Alternativ you can send the choosen cards vie right click "P1 Play" to your Player Board.
 - Click `Dungeon -> Enemy Board` and drag a facedown enemy card to the discard pile
 - Resolve turn in initiative order, dragging and dropping hexes on the room tile as appropriate
 - Attacking
